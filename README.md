@@ -1,1 +1,1 @@
-# uh-maona-marketplace.github.io
+# uh-manoa-marketplace.github.io
