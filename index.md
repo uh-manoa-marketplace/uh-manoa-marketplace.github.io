@@ -4,7 +4,7 @@
 
 ## Overview
 
-The UH Manoa Marketplace is a web application where people apart of the UH community are able to buy or sell their personal belongings. Great for students who graduate and need to get rid of their unwanted stuff once they are finished dorming at the Univsersity of Hawai'i at Manoa.
+The UH Manoa Marketplace is a web application where people apart of the UH community are able to buy or sell their personal belongings. Great for students who just graduated and need to get rid of their unwanted stuff once they are finished dorming at the Univsersity of Hawai’i at Manoa. Students can put up their old textbooks, and sell it for cheaper than the bookstore. You can filter through textbooks based on the Subject and Professor to make things go faster.
 
 ## Team Members
 
