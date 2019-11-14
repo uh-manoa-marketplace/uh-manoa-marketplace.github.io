@@ -11,7 +11,7 @@ The UH Manoa Marketplace is a web application where people within the UH communi
 
 ### Victor Jodar is . . . 
 
-Currently a Junior majoring in General ICS. On my free time, I enjoy video games, movies and shows, and hanging out with friends.
+Currently a Junior majoring in General ICS. On his free time, he enjoys video games, movies and shows, and hanging out with friends.
 
 ### Deshay Clemons is . . . 
 
@@ -27,4 +27,4 @@ Currently a Junior majoring in Computer Science. Isaiah is interested in softwar
 
 ### Kiara Eltagonde is . . .
 
-Currently a Junior in the Bachelor's of Arts Program for Information & Computer Science. She likes to go to the beach and play music on her free time. 
+Currently a Junior in the Bachelor's of Arts Program for Information & Computer Science. She likes going to the beach, bowling, and playing ukulele and guitar.
