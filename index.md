@@ -9,7 +9,7 @@ The UH Manoa Marketplace is a web application where people within the UH communi
 
 ## Mockup
 ### Landing
-<img class="ui medium floated image" src="../images/landingM1.PNG">
+<img class="ui medium floated image" src="/image/landingM1.PNG">
 
 
 ## Team Members
