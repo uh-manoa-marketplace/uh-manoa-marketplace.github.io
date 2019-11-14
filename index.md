@@ -1,7 +1,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Team Members](#team_members)
+* [Team Members](#team-members)
 
 ## Overview
 
