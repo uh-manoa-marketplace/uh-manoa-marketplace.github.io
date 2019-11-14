@@ -1,6 +1,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
+* [Mockup](#mockup)
 * [Team Members](#team-members)
 
 ## Overview
