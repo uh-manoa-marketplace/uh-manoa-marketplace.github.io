@@ -1,4 +1,4 @@
-# [Galaxy Deployment](https://galaxy.meteor.com/app/uh-manoa-marketplace.meteorapp.com)
+# [Galaxy Deployment](http://uh-manoa-marketplace.meteorapp.com/#/)
 # [GitHub Application Code](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace)
 ## Table of Contents
 
