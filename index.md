@@ -3,6 +3,11 @@
 
 * [Overview](#overview)
 * [Mockup](#mockup)
+  * [Landing](#landing-page)
+  * [Add Item](#add-item-page)
+  * [List](#list-page)
+  * [Profile](#profile-page)
+  * [Admin](#admin-page)
 * [Milestone Projects](#milestone-projects)
 * [Team Members](#team-members)
 
