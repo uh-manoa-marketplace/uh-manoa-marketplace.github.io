@@ -33,7 +33,7 @@ If you have not already registered, click Login, then Sign Up to create an accou
 ### Sign In Page
 If you already have an Account, click on Login, then Sign In. 
 
-<a href="http://uh-manoa-marketplace.meteorapp.com/#/signin"><img class="ui medium floated image" src="/image/signin.png"</a>
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/signin"><img class="ui medium floated image" src="/image/signin.png"></a>
 
 ### User Home Page
 After you login, it will take you to a page similar to the landing page, except you have more tabs in the NavBar such as Add Item, List Item, and My Profile.
