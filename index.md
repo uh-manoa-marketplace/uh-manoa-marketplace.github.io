@@ -1,7 +1,9 @@
+# [Galaxy Deployment](https://galaxy.meteor.com/app/uh-manoa-marketplace.meteorapp.com)
 ## Table of Contents
 
 * [Overview](#overview)
 * [Mockup](#mockup)
+* [Milestone Projects](#milestone-projects)
 * [Team Members](#team-members)
 
 ## Overview
@@ -10,19 +12,23 @@ The UH Manoa Marketplace is a web application where people within the UH communi
 
 ## Mockup
 ### Landing Page
-<img class="ui medium floated image" src="/image/landingM1.PNG">
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/"><img class="ui medium floated image" src="/image/landingM1.PNG"></a>
 
 ### Add Item Page
-<img class="ui medium floated image" src="/image/AddItem.png">
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/add"><img class="ui medium floated image" src="/image/AddItem.png"></a>
 
 ### List Page
-<img class="ui medium floated image" src="/image/ListPage.png">
-
-### Admin Page
-<img class="ui medium floated image" src="/image/admin.png">
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/list"><img class="ui medium floated image" src="/image/ListPage.png"></a>
 
 ### Profile Page
-<img class="ui medium floated image" src="/image/MyProfileScreenshot.PNG">
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/profile"><img class="ui medium floated image" src="/image/MyProfileScreenshot.PNG"></a>
+
+### Admin Page
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/admin"><img class="ui medium floated image" src="/image/admin.png"></a>
+
+## Milestone Projects
+### [Milestone 1](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace/projects/1 "M1")
+### [Milestone 2](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace/projects/2 "M2")
 
 ## Team Members
 
