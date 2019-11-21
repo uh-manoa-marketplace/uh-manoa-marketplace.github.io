@@ -1,5 +1,3 @@
-# [Galaxy Deployment](http://uh-manoa-marketplace.meteorapp.com/#/)
-# [GitHub Application Code](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace)
 ## Table of Contents
 
 * [Overview](#overview)
@@ -9,8 +7,14 @@
   * [List](#list-page)
   * [Profile](#profile-page)
   * [Admin](#admin-page)
-* [Milestone Projects](#milestone-projects)
+* Milestone Projects
+  * [Milestone 1](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace/projects/1 "M1")
+  * [Milestone 2](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace/projects/2 "M2")
 * [Team Members](#team-members)
+
+[Galaxy Deployment](http://uh-manoa-marketplace.meteorapp.com/#/)
+
+[GitHub Application Code](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace)
 
 ## Overview
 
@@ -32,28 +36,14 @@ The UH Manoa Marketplace is a web application where people within the UH communi
 ### Admin Page
 <a href="http://uh-manoa-marketplace.meteorapp.com/#/admin"><img class="ui medium floated image" src="/image/admin.png"></a>
 
-## Milestone Projects
-### [Milestone 1](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace/projects/1 "M1")
-### [Milestone 2](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace/projects/2 "M2")
-
 ## Team Members
 
-### Victor Jodar is . . . 
+### [Victor Jodar](https://vjodar.github.io/)
 
-Currently a Junior majoring in General ICS. On his free time, he enjoys video games, movies and shows, and hanging out with friends.
+### [Deshay Clemons](https://deshay-clemons.github.io/)
 
-### Deshay Clemons is . . . 
+### [Eric Rivera](https://eric5rivera.github.io/)
 
-Currently a Junior in college who enjoys programming, playing music, and spending time with friends and family.
+### [Isaiah Starkey](https://isaiahstarkey.github.io/)
 
-### Eric Rivera is . . .
-
-A student majoring in Computer Science. When he isn’t studying or working at his IT internship, he enjoys cycling, coffee and cars.
-
-### Isaiah Starkey is . . . 
-
-Currently a Junior majoring in Computer Science. Isaiah is interested in software engineering and enjoys playing piano and guitar on his free time.
-
-### Kiara Eltagonde is . . .
-
-Currently a Junior in the Bachelor's of Arts Program for Information & Computer Science. She likes going to the beach, bowling, and playing ukulele and guitar.
+### [Kiara Eltagonde](https://kiarae99.github.io/)
