@@ -23,7 +23,8 @@ The UH Manoa Marketplace is a web application where people within the UH communi
 
 When you first open the application, you will see this landing page with a brief description of the application.
 
-<a href="http://uh-manoa-marketplace.meteorapp.com/#/"><img class="ui medium floated image" src="/image/landingM1.PNG"></a>
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/"><img class="ui medium floated image" src="/image/LandingPage1.png"></a>
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/"><img class="ui medium floated image" src="/image/LandingPage2.png"></a>
 
 ### Sign Up Page
 If you have not already registered, click Login, then Sign Up to create an account.
@@ -48,12 +49,17 @@ One of the functions in this application is the ability to add your own items to
 ### List Page
 Another function in this application is the ability to view and/or buy other people's items. You can use the search bar to filter through the thousands of items up for sale. You have the ability to heart (or favorite) items you come across for future reference.
 
-<a href="http://uh-manoa-marketplace.meteorapp.com/#/list"><img class="ui medium floated image" src="/image/ListPage.png"></a>
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/list"><img class="ui medium floated image" src="/image/ListItem.png"></a>
 
 ### Profile Page
 On your profile page, you can see the items that you have favorited. You also have the ability to be able to update and edit your own profile.
 
-<a href="http://uh-manoa-marketplace.meteorapp.com/#/profile"><img class="ui medium floated image" src="/image/MyProfileScreenshot.PNG"></a>
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/profile"><img class="ui medium floated image" src="/image/MyProfile.png"></a>
+
+### Favorites Page
+When you like an item you see on the List Page, you can click on the heart to favorite it. After clicking on it, that item will appear in your favorites page.
+
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/favorites"><img class="ui medium floated image" src="/image/MyFavorites.png"></a>
 
 ### Admin Page
 Through a settings file, we can add certain users to be admins. Admins have the ability to remove items as they see fit.
