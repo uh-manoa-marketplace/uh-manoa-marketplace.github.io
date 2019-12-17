@@ -9,9 +9,9 @@
   * [Milestone 3](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace/projects/3 "M3")
 * [Team Members](#team-members)
 
-[Galaxy Deployment](http://uh-manoa-marketplace.meteorapp.com/#/)
+[Web Application Deployment](http://uh-manoa-marketplace.meteorapp.com/#/)
 
-[GitHub Application Code](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace)
+[GitHub Code](https://github.com/uh-manoa-marketplace/uh-manoa-marketplace)
 
 ## Overview
 
