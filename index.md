@@ -40,6 +40,11 @@ After you login, it will take you to a page similar to the landing page, except 
 
 <a href="http://uh-manoa-marketplace.meteorapp.com/#/"><img class="ui medium floated image" src="/image/userhomepage.png"></a>
 
+### Quick Start Guide
+If you get stuck and don't know what to do, within the footer you will see the words 'Quick Start Guide'. If you click on that, it will take you to a page that shows you the basics of the application. 
+
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/quickStart"><img class="ui medium floated image" src="/image/quickStart.png"></a>
+
 ### Add Item Page
 One of the functions in this application is the ability to add your own items to sell. All you need is the name of your item, the price at which you are willing to sell said item, an image of your item, the condition it is in, and a brief description of the item ans why you are selling.
 
@@ -70,8 +75,7 @@ When you like an item you see on the List Page, you can click on the heart to fa
 You have the ability to add items for sale. After adding an item, it will pop up on this page. From here, you can
  choose to either delete the item or to edit it. 
  
- <a href="http://uh-manoa-marketplace.meteorapp.com/#/myitems"><img class="ui medium floated image" src="/image/MyItems
- .png"></a>
+ <a href="http://uh-manoa-marketplace.meteorapp.com/#/myitems"><img class="ui medium floated image" src="/image/MyItems.png"></a>
  
 ### Admin Page
 Through a settings file, we can add certain users to be admins. Admins have the ability to remove items as they see fit.
