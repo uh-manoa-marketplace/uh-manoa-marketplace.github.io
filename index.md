@@ -23,11 +23,10 @@ The UH Manoa Marketplace is a web application where people within the UH communi
 
 When you first open the application, you will see this landing page with a brief description of the application.
 
-<a href="http://uh-manoa-marketplace.meteorapp.com/#/"><img class="ui medium floated image" src="/image/LandingPage1.png"></a>
-<a href="http://uh-manoa-marketplace.meteorapp.com/#/"><img class="ui medium floated image" src="/image/LandingPage2.png"></a>
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/"><img class="ui medium floated image" src="/image/LandingPage.png"></a>
 
 ### Sign Up Page
-If you have not already registered, click Login, then Sign Up to create an account.
+If you have not already registered, click Get Started, to create an account.
 
 <a href="http://uh-manoa-marketplace.meteorapp.com/#/signup"><img class="ui medium floated image" src="/image/signup.png"></a>
 
@@ -51,8 +50,14 @@ Another function in this application is the ability to view and/or buy other peo
 
 <a href="http://uh-manoa-marketplace.meteorapp.com/#/list"><img class="ui medium floated image" src="/image/ListItem.png"></a>
 
+### Trending Page
+On this page, you can see what the top favorited/liked items are.
+
+<a href="http://uh-manoa-marketplace.meteorapp.com/#/popular"><img class="ui medium floated image" src="/image/Trending.png"></a>
+
 ### Profile Page
-On your profile page, you can see the items that you have favorited. You also have the ability to be able to update and edit your own profile.
+On your profile page, you can see the items that you have favorited. You also have the ability to be able to update
+ and edit your own profile.
 
 <a href="http://uh-manoa-marketplace.meteorapp.com/#/profile"><img class="ui medium floated image" src="/image/MyProfile.png"></a>
 
@@ -61,6 +66,13 @@ When you like an item you see on the List Page, you can click on the heart to fa
 
 <a href="http://uh-manoa-marketplace.meteorapp.com/#/favorites"><img class="ui medium floated image" src="/image/MyFavorites.png"></a>
 
+### My Items
+You have the ability to add items for sale. After adding an item, it will pop up on this page. From here, you can
+ choose to either delete the item or to edit it. 
+ 
+ <a href="http://uh-manoa-marketplace.meteorapp.com/#/myitems"><img class="ui medium floated image" src="/image/MyItems
+ .png"></a>
+ 
 ### Admin Page
 Through a settings file, we can add certain users to be admins. Admins have the ability to remove items as they see fit.
 
