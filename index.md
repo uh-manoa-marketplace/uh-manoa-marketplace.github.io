@@ -109,7 +109,7 @@ Through a settings file, we can add certain users to be admins. Admins have the 
 
 ## Community Feedback
 ### Sierra M.
-I liked the ease of this website. I am able to see a lot of different supplies and things for college.
+1. I liked the ease of this website. I am able to see a lot of different supplies and things for college.
 2. I would definitely use this website to sell some of my things at the end of the semester and have so far told all of my friends about this.
 3. I would suggest creating a way to bid on certain items.
 
