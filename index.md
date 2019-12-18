@@ -108,7 +108,7 @@ Through a settings file, we can add certain users to be admins. Admins have the 
    ```
 
 ## Community Feedback
-### Reese M.
+### Sierra M.
 I liked the ease of this website. I am able to see a lot of different supplies and things for college.
 2. I would definitely use this website to sell some of my things at the end of the semester and have so far told all of my friends about this.
 3. I would suggest creating a way to bid on certain items.
@@ -117,16 +117,16 @@ I liked the ease of this website. I am able to see a lot of different supplies a
 1. Listing items is super easy if you list your objects correctly the first time but if you mess up your listing and publish it there is no way to edit the listing.
 2. I did like being able to categorize the items. It was super helpful when I was trying to look specifically for certain types of objects.
 
-### Isaiah C.
+### Micah C.
 1. I like this website and how I can list my items I no longer use for school.
 2. I enjoyed buying my books for lower prices than Amazon and bookstores but I think there should be an easier way to negotiate prices rather than via email. 
 3. A chatroom would be great for competing prices and ideally getting some buyers to lower prices. 
 
-### Kai G.
+### Kai G. (Registered as buyer)
 1. Stars! I would like to see star ratings for sellers. I wish I had known who I was buying from before I committed!
 2. I enjoyed being able to easily list my items. Great alternative to storing items after the semester is over.
 
-### Aimee H. (Registered Student)
+### Aimee H. (Registered as seller)
 1. I want to see a chatroom. Sometimes I would have items that others would want but I wouldn’t be sure that people are willing to pay for these items.
 2. I also want to see reviews for sellers and possibly buyers so that people have an idea about how smooth transactions have gone. 
 
