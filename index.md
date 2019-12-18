@@ -94,15 +94,20 @@ Through a settings file, we can add certain users to be admins. Admins have the 
    ```
    $ meteor npm install
    ```
-     
-4. After installing the libraries, you can run the application by invoking
+   
+4. An additional module needs to be installed, to do so invoke
+   ```
+   $ npm install sweetalert2
+   ```
+   
+5. After installing the libraries, you can run the application by invoking
    ```    
    $ meteor npm run start
    ```
      
-5. Go to ```locallhost:3000```
+6. Go to ```locallhost:3000```
 
-6. When you are done modifying the system, to check for error you can run
+7. When you are done modifying the system, to check for error you can run
    ```
    $ meteor npm run lint
    ```
